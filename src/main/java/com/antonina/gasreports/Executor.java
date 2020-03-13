@@ -10,6 +10,8 @@ import java.util.Set;
 
 public class Executor {
     public static void main(String[] args) {
+        //Set<GasStation> gasStations = new HashSet<>();
+
 
     }
 
